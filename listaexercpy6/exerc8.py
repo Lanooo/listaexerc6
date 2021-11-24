@@ -7,5 +7,5 @@ if f < 75:
 if (f >= 75) and (m < 7):
     print("Você está de recuperação")
     
-else:
+if (f >= 75) and (m> 7):
     print("Você foi aprovado")
